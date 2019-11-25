@@ -6,7 +6,7 @@ for x in sastojci:
 for i in range(len(sastojci)):
     print(f"Na rednom broju {i} nalazimo {sastojci[i]}")
 
-for i, x in enumerate(sastojci):
+for i, x in enumerate(sastojci): # unumerate pobrojava vrijednosti liste 
     print(f"Na rednom broju {i} nalazimo {x}")
 print("-"*60)
 
