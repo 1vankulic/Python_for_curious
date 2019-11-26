@@ -29,5 +29,3 @@ x = 2 * (1, 2) + (3, 4)
 x += 1
 x.count(1) # Izbacuje broj jedinica
 x.index(2) # Izbacuje mjesto dvojkes
-
-dsa
